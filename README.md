@@ -41,6 +41,6 @@ To view the codes open "Code(Text Files)" folder.
 
 To watch the video tour open "video tour" file.
 
-To install the software open "Project Exe" folder.
+To get the .exe file for installing go to https://drive.google.com/open?id=0B7mvuLt3FzRgbWtrZHEwZUliUVpaMzA5VE50YWF4QUJOY0ZJ and download the file.
 
 To view all the program files open "VB" folder.
